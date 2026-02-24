@@ -1,0 +1,41 @@
+/* EditorKit 中文本地化 */
+
+/* 通用 */
+"ek.untitled" = "未命名";
+
+/* 检查器 */
+"ek.inspector.page_title" = "页面";
+"ek.inspector.selected" = "项已选择";
+"ek.inspector.unregistered" = "未注册 Inspector";
+"ek.inspector.unregistered_type" = "类型: %@";
+
+/* 检查器操作 */
+"ek.action.group" = "编组";
+"ek.action.align" = "对齐";
+"ek.action.distribute" = "分布";
+
+/* 检查器区域 & 字段 */
+"ek.section.arrange" = "排列";
+"ek.field.width" = "宽";
+"ek.field.height" = "高";
+"ek.field.rotation" = "旋转";
+"ek.field.opacity" = "不透明度";
+
+/* 侧边栏 */
+"ek.sidebar.title" = "页面";
+"ek.sidebar.page_count" = "%d 页";
+"ek.sidebar.add_page" = "添加页面";
+"ek.sidebar.new_page_after" = "在后面新建页面";
+"ek.sidebar.duplicate_page" = "复制页面";
+"ek.sidebar.delete_page" = "删除页面";
+
+/* 工具栏 */
+"ek.toolbar.undo" = "撤销";
+"ek.toolbar.redo" = "重做";
+"ek.toolbar.zoom_in" = "放大";
+"ek.toolbar.zoom_out" = "缩小";
+"ek.toolbar.zoom_to_fit" = "适合窗口";
+"ek.toolbar.toggle_sidebar" = "显示/隐藏侧边栏";
+"ek.toolbar.toggle_inspector" = "显示/隐藏检查器";
+"ek.toolbar.play" = "播放";
+"ek.toolbar.start_presentation" = "开始播放";

@@ -1,0 +1,41 @@
+/* EditorKit English Localization */
+
+/* General */
+"ek.untitled" = "Untitled";
+
+/* Inspector */
+"ek.inspector.page_title" = "Page";
+"ek.inspector.selected" = "selected";
+"ek.inspector.unregistered" = "No Inspector Registered";
+"ek.inspector.unregistered_type" = "Type: %@";
+
+/* Inspector Actions */
+"ek.action.group" = "Group";
+"ek.action.align" = "Align";
+"ek.action.distribute" = "Distribute";
+
+/* Inspector Sections & Fields */
+"ek.section.arrange" = "Arrange";
+"ek.field.width" = "W";
+"ek.field.height" = "H";
+"ek.field.rotation" = "Rotation";
+"ek.field.opacity" = "Opacity";
+
+/* Sidebar */
+"ek.sidebar.title" = "Pages";
+"ek.sidebar.page_count" = "%d pages";
+"ek.sidebar.add_page" = "Add Page";
+"ek.sidebar.new_page_after" = "New Page After";
+"ek.sidebar.duplicate_page" = "Duplicate Page";
+"ek.sidebar.delete_page" = "Delete Page";
+
+/* Toolbar */
+"ek.toolbar.undo" = "Undo";
+"ek.toolbar.redo" = "Redo";
+"ek.toolbar.zoom_in" = "Zoom In";
+"ek.toolbar.zoom_out" = "Zoom Out";
+"ek.toolbar.zoom_to_fit" = "Zoom to Fit";
+"ek.toolbar.toggle_sidebar" = "Toggle Sidebar";
+"ek.toolbar.toggle_inspector" = "Toggle Inspector";
+"ek.toolbar.play" = "Play";
+"ek.toolbar.start_presentation" = "Start Presentation";
