@@ -168,7 +168,11 @@ EditorView(store: store) {
 
 See [`Examples/PresentationApp/`](Examples/PresentationApp/) for a complete demo.
 
+For a comprehensive step-by-step guide, read the **[Tutorial](docs/TUTORIAL.md)**.
+
 完整示例请查看 [`Examples/PresentationApp/`](Examples/PresentationApp/) 目录。
+
+详细的分步教程请阅读 **[使用教程](docs/TUTORIAL.md)**。
 
 ---
 
